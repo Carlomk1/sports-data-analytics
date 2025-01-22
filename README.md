@@ -18,7 +18,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<a href="#about-the-project">About The Project</a>
+<li><a href="#about-the-project">About The Project</a><li>
 <li><a href="#project-idea">Project Idea</a></li>
 <li><a href="#built-with">Built With</a></li>
 <li><a href="#data-sources">Data Sources</a></li>
