@@ -2,20 +2,19 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
+<!-- [![Stargazers][stars-shield]][stars-url] -->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Carlomk1/sports-data-analytics">
-    <img src="images/NFL-logo.png" alt="Logo" width="300" height="250">
+    <img src="images/NFL-logo.png" alt="Logo" width="300" height="200">
   </a>
 </div>
 
-# Combine & seasonal NFL performance data
-## Do numbers matter and how strong is their influence on performance in competition?
+# Combine & seasonal NFL performance data: Do Combine values matter and how strong is their influence on performance in competition?
 
 
 <!-- TABLE OF CONTENTS -->
