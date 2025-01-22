@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/NFL-logo.jpg" alt="Logo" width="300" height="300">
+  <a href="https://github.com/Carlomk1/sports-data-analytics">
+    <img src="images/NFL-logo.png" alt="Logo" width="300" height="300">
   </a>
 </div>
 
@@ -46,7 +46,11 @@
 
 ### Built With
 
-* [![Streamlit][streamlit-shield]][streamlit-url]
+[![Streamlit][streamlit-shield]][streamlit-url]
+[![Python][python-shield]][python-url]
+[![Matplotlib][matplotlib-shield]][matplotlib-url]
+[![Seaborn][seaborn-shield]][seaborn-url]
+[![Pandas][pandas-shield]][pandas-url]
 
 
 
@@ -117,8 +121,16 @@ This page investigates the role of weather conditions on air quality, presenting
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/Carlomk1/sportsdata_analytics.svg?style=for-the-badge
-[contributors-url]: https://github.com/Carlomk1/sportsdata_analytics/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/Carlomk1/sportsdata_analytics.svg?style=for-the-badge
-[stars-url]: https://github.com/Carlomk1/sportsdata_analytics/stargazers
+[contributors-url]: https://github.com/Carlomk1/sports-data-analytics/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/Carlomk1/sports-data-analytics.svg?style=for-the-badge
+[stars-url]: https://github.com/Carlomk1/sports-data-analytics/stargazers
 [streamlit-shield]: https://img.shields.io/badge/Streamlit-red.svg?style=for-the-badge
 [streamlit-url]: https://streamlit.io/
+[python-shield]: https://img.shields.io/badge/Python-3.8+-blue.svg?style=for-the-badge
+[python-url]: https://www.python.org/
+[matplotlib-shield]: https://img.shields.io/badge/Matplotlib-yellow.svg?style=for-the-badge
+[matplotlib-url]: https://matplotlib.org/
+[seaborn-shield]: https://img.shields.io/badge/Seaborn-teal.svg?style=for-the-badge
+[seaborn-url]: https://seaborn.pydata.org/
+[pandas-shield]: https://img.shields.io/badge/Pandas-green.svg?style=for-the-badge
+[pandas-url]: https://pandas.pydata.org/
