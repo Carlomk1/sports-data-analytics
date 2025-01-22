@@ -67,6 +67,7 @@ The analysis aimed to uncover relationships between NFL Combine metrics and seas
 - A machine learning model was applied to predict player performance based on Combine data but failed to produce reliable results.
 - Despite these limitations, the analysis highlighted the potential value of leveraging Combine data for draft decisions. Additional data and a refined approach could yield more actionable insights in the future.
 
+For all insights see the explorative data analysis file [analytics-url].
 
 ## Streamlit Application:
 The dashboard serves as a practical demonstration of how NFL Combine and seasonal performance data can be visualized and analyzed in a user-friendly interface. Built as a prototype for a Business Intelligence (BI) tool, the dashboard allows analysts to explore the data interactively.
@@ -154,3 +155,4 @@ Here you can then select the characteristic values for the most similar players 
 [seaborn-url]: https://seaborn.pydata.org/
 [pandas-shield]: https://img.shields.io/badge/Pandas-green.svg?style=for-the-badge
 [pandas-url]: https://pandas.pydata.org/
+[analytics-url]: https://github.com/Carlomk1/sports-data-analytics/blob/master/01_Data%20exploration/NFL_Data_seasonal.ipynb
